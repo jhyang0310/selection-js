@@ -13,6 +13,7 @@ void      wrapLines(textarea, prefix, suffix, [ignoreSpaces=FALSE])
 void      unwrapLines(textarea, prefix, suffix, [ignoreSpaces=FALSE])
 
 
+
 Cz.TextAreaSelection
 ####################
 
